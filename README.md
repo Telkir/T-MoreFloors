@@ -14,4 +14,5 @@ Note: The new types of stone flooring only become available to build once the St
 Special mentions and thanks to folks who have contributed:
 
 ● Candacis - German translation  
-● Latta - Korean translation
+● Latta - Korean translation  
+● A Helpful Bot - suggesting jade flooring
